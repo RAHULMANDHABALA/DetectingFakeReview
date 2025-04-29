@@ -1,5 +1,3 @@
-
-```markdown
 # Fake Product Review Detection System
 
 ## Overview
@@ -48,7 +46,6 @@ An ensemble learning technique that can be used for classification and regressio
 - Required modules:
   ```bash
   pip install numpy pandas seaborn scikit-learn nltk
-  ```
 
 ## Dataset
 The dataset contains product reviews with labels indicating whether they are genuine (OR) or computer-generated (CG).
